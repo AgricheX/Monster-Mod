@@ -5,7 +5,6 @@ on:
     branches: [main]
     paths-ignore:
       - "README.md"
-      - "Ad/**"
   workflow_dispatch:
 
 permissions:
@@ -26,7 +25,7 @@ jobs:
       - name: Build zip
         run: |
           mkdir -p "dist/$MOD_FOLDER"
-          rsync -a --exclude ".git" --exclude ".github" --exclude "dist" --exclude "Ad" --exclude "README.md" ./ "dist/$MOD_FOLDER/"
+          rsync -a --exclude ".git" --exclude ".github" --exclude "dist" --exclude "README.md" ./ "dist/$MOD_FOLDER/"
           cd dist && zip -qr "$ZIP_NAME.zip" "$MOD_FOLDER"
       - name: Publish release
         run: |
