@@ -26,7 +26,7 @@ English first, português do Brasil logo abaixo.
 - Godzilla Power and King Kong Power traits.
 - A Monsters tab with a spawn button for each one.
 
-This is the original mod. The new [Godzilla](https://github.com/AgricheX/Godzilla) mod for current WorldBox is its successor.
+This is the original mod. The new [Godzilla](https://github.com/AgricheX/Godzilla-Verse) mod for current WorldBox is its successor.
 
 ### How to install
 
@@ -50,7 +50,7 @@ Questions and bug reports: [Agriche Community on Discord](https://discord.gg/s3E
 - Traços Poder do Godzilla e Poder do King Kong.
 - Uma aba Monstros com botão de invocação para cada um.
 
-Este é o mod original. O novo mod [Godzilla](https://github.com/AgricheX/Godzilla), para o WorldBox atual, é o sucessor dele.
+Este é o mod original. O novo mod [Godzilla](https://github.com/AgricheX/Godzilla-Verse), para o WorldBox atual, é o sucessor dele.
 
 ### Como instalar
 
