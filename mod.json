@@ -1,0 +1,8 @@
+{
+  "name": "Monster",
+  "author": "Agriche#8168",
+  "version": "0.0.1",
+  "description": "This mod adds giant monsters!",
+  "iconPath": "icon.png",
+  "targetGameBuild": 472
+}
