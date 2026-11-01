@@ -4,7 +4,7 @@
 
 > Giant monsters for WorldBox 0.14: Godzilla, the King of the Monsters, and King Kong.
 
-**[Download Monster Mod 0.0.1](https://github.com/AgricheX/monster-mod/releases/latest/download/MonsterMod.zip)**
+**[Download Monster Mod 0.0.1](https://github.com/AgricheX/Monster-Mod/releases/latest/download/MonsterMod.zip)**
 
 | | |
 | --- | --- |
